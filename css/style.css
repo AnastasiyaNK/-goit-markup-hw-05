@@ -624,7 +624,9 @@ body {
 }
 
 .modal-btn {
-  display: block;
+  display: flex;
+  width: 24px;
+  height: 24px;
   margin-left: auto;
   border-radius: 50%;
   background-color: #e7e9fc;
